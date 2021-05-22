@@ -1,0 +1,11 @@
+.card_image img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+.card a{
+    text-decoration: none;
+}
+.card_content a:hover{
+    text-decoration: none;
+}
